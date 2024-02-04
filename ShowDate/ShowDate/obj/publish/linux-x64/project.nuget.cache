@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "62hCY+ztq48dGllnhxcn3TKC/4REB0eHP+PLKiR416BXt2Mv/0GTmTOikaItBs84YkdkhnrYYdaCQRPwvl175A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eugen\\Desktop\\Zadanie 3 ADA\\ShowDate\\ShowDate\\ShowDate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.net.build.containers\\8.0.101\\microsoft.net.build.containers.8.0.101.nupkg.sha512",
+    "C:\\Users\\eugen\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.1\\microsoft.netcore.app.host.linux-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

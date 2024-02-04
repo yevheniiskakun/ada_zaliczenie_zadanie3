@@ -1,0 +1,14 @@
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\bin\Release\net8.0\linux-x64\ShowDate
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\bin\Release\net8.0\linux-x64\ShowDate.deps.json
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\bin\Release\net8.0\linux-x64\ShowDate.runtimeconfig.json
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\bin\Release\net8.0\linux-x64\ShowDate.dll
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\bin\Release\net8.0\linux-x64\ShowDate.pdb
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\ShowDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\ShowDate.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\ShowDate.AssemblyInfo.cs
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\ShowDate.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\ShowDate.dll
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\refint\ShowDate.dll
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\ShowDate.pdb
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\ShowDate.genruntimeconfig.cache
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\ref\ShowDate.dll

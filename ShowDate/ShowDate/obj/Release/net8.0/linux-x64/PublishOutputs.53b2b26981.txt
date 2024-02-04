@@ -1,0 +1,5 @@
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\PubTmp\Out\ShowDate
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\PubTmp\Out\ShowDate.dll
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\PubTmp\Out\ShowDate.deps.json
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\PubTmp\Out\ShowDate.runtimeconfig.json
+C:\Users\eugen\Desktop\Zadanie 3 ADA\ShowDate\ShowDate\obj\Release\net8.0\linux-x64\PubTmp\Out\ShowDate.pdb
